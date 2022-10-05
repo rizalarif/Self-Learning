@@ -1,0 +1,16 @@
+{
+  "name": "arrow-function",
+  "version": "1.0.0",
+  "description": "study for arrow function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrow",
+    "function",
+    "js"
+  ],
+  "author": "Rizal",
+  "license": "ISC"
+}
