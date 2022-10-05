@@ -28,3 +28,17 @@ var hello1 = (nama) => {
     return `Assalamualaikum ${nama}`
 }
 console.log(hello1('Arif'))
+
+console.log("===============================================")
+
+// Studi Kasus Ringan
+let mahasiswa = ["Rizal Arif", "Marc Klok", "Jajang Sudirman"]
+
+let jumlahHuruf = mahasiswa.map(jumlah => jumlah.length)
+
+console.log(jumlahHuruf)
+
+// jadikan objek
+
+let jumlahHuruf2 = mahasiswa.map(nama =>({ nama , jumlahHuruf2:nama.length}) )
+console.log(jumlahHuruf2)
