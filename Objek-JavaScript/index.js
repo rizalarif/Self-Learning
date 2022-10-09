@@ -36,3 +36,5 @@ function Angkot(sopir, trayek, penumpang, kas){
 var angkot1 = new Angkot('Rizal Arif', ['Cicaheum','Ledeng'], [], 0);
 
 var angkot2 = new Angkot('Febri Bow',['Sarijadi','Ciroyom'], [], 0);
+
+var angkot3 = new Angkot('Supratman',['Karang-Setra','Ciroyom'], [], 0);
